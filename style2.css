@@ -1,0 +1,15 @@
+.navga{
+    background: rgb(180, 69, 165);
+    padding-right: 15px;
+    padding-left: 15px;
+    border: 15px;
+    display: flex;
+    flex-direction: row;
+}
+.pris{
+    display: flex;
+    flex-direction: row;
+}
+
+
+

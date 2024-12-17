@@ -1,0 +1,77 @@
+form {
+   display:flex;
+   flex-direction: column;
+   background-color: white;
+   background-position: center;
+   height: 700px;
+   gap: 15px;
+   width: 100%;
+   border:10px; 
+}
+
+.single{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   gap: 10px;
+}
+.container{
+   display:flex;
+   flex-direction: column;
+}
+.chord{
+   border-radius: 25px;
+   padding:10px;
+   height: 700px;
+   width: 40%;
+   gap: 25px;   
+}
+.input_field{
+   height: 25px;
+   gap: 15px;
+   border-radius: 10px;
+   outline: auto;
+   color: greenyellow;
+}
+.chords{
+   background-color: rgb(226, 229, 240);
+   align-items: center;
+   border-radius: 25px;
+   padding: 10px;
+   height: 700px;
+   width: 40%;
+   align-content: center;
+}
+body{
+   font-family: 'Gill Sans', sans-serif;
+   font-size:20px;
+   align-items: center;
+   gap:20px;
+  
+}
+button{ 
+   display: flex;
+   flex-direction: column;
+   height: 25px;
+   background-color: black;
+   color: white;
+   align-items: center;
+}
+.icon{
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   gap:10px;
+}
+.aires{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   gap: 10px;
+}
+.kapesa{
+   gap: 10px;
+}
+
+
+  
